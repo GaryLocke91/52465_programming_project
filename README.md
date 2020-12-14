@@ -18,6 +18,35 @@ For this project you must create a data set by simulating a real-world phenomeno
 * Synthesise/simulate a data set as closely matching their properties as possible.
 
 * Detail your research and implement the simulation in a Jupyter notebook - the data set itself can simply be displayed in an output cell within the notebook.
+***
+
+### Table of contents
+
+#### 1. Introduction
+
+#### 2. Variables
+
+#### 3. Building the data set
+- 3.1 Date and day
+- 3.2 Workout routine
+- 3.3 Calories burned
+- 3.4 Body Mass Index (BMI)
+- 3.5 Total Daily Energy Expenditure (TDEE)
+- 3.6 Define weight targets
+- 3.7 Calorie intake
+- 3.8 Calorie output
+- 3.9 Weight
+- 3.10 Add Body Mass Index (BMI) to the data set
+- 3.11 Resting Heart Rate (RHR)
+- 3.12 Fasting Blood Glucose (FBG)
+- 3.13 Populating the data set
+
+#### 4. Analysis
+
+#### 5. Conclusion
+
+#### 6. References
+***
 
 ### Executing the Jupyter Notebook
 
