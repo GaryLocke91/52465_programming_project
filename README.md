@@ -26,7 +26,7 @@ For this project you must create a data set by simulating a real-world phenomeno
 
 #### 2. Variables
 
-#### 3. Building the data set
+#### 3. Constructing the data set
 - 3.1 Date and day
 - 3.2 Workout routine
 - 3.3 Calories burned
@@ -39,7 +39,7 @@ For this project you must create a data set by simulating a real-world phenomeno
 - 3.10 Add Body Mass Index (BMI) to the data set
 - 3.11 Resting Heart Rate (RHR)
 - 3.12 Fasting Blood Glucose (FBG)
-- 3.13 Populating the data set
+- 3.13 Complete the data set
 
 #### 4. Analysis
 
